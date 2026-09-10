@@ -26,22 +26,4 @@ Currently exploring how AI can move beyond demos and become useful systems in pr
 
 ---
 
-### 🧪 Currently Exploring
 
-```text
-Shelf Image
-    │
-    ▼
-┌──────────────┐
-│   Detection  │
-│     YOLO     │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ Recognition  │
-│   SigLIP2    │
-└──────┬───────┘
-       │
-       ▼
-   Product SKU
