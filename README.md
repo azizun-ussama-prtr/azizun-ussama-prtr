@@ -33,24 +33,6 @@ Currently exploring how AI can move beyond demos and become useful systems in pr
 
 ---
 
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=azizun-ussama-prtr&show_icons=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizun-ussama-prtr&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
-## 🐍 Contributions
-
-<p>
-  <img src="https://raw.githubusercontent.com/azizun-ussama-prtr/azizun-ussama-prtr/output/github-contribution-grid-snake.svg" />
-</p>
+Building, experimenting, and learning one commit at a time. 🚀
