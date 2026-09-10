@@ -61,15 +61,7 @@ The interesting parts were the edge cases: automating Kendo UI grids through the
 
 `Power Automate Desktop` `JavaScript` `PnP.PowerShell` `SAP B1` `Adaptive Cards`
 
-### 📹 Video → Process Documentation
-Used multimodal AI to turn raw screen recordings of manual work into As-Is swimlane diagrams and step-by-step SOPs — compressing days of process-mapping interviews into hours.
-
-`Multimodal AI` `draw.io` `Python`
-
-### 🖥️ Master Data Management Web App
-Internal tool for managing company master data, notification recipients, and folder permissions that feed the RPA layer — so operations can self-serve instead of filing tickets.
-
-`React` `Vite` `Tailwind` `Node.js` `Express` `Prisma` `JWT`
+**Also built** — a multimodal pipeline that turns screen recordings into As-Is swimlane diagrams and SOPs · an internal master-data web app (`React` · `Node.js` · `Prisma`) that lets ops self-serve the config feeding the RPA layer.
 
 ---
 
