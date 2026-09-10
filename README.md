@@ -1,4 +1,4 @@
-# Hey, I'm Zun 👋
+# Hey, I'm Zun [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=AI+%26+Automation+Engineer;Building+Computer+Vision+Systems;Exploring+SigLIP2+%26+AI+Agents)](https://git.io/typing-svg)
 
 ### AI • Automation • Computer Vision
 
