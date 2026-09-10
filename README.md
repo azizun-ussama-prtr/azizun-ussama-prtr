@@ -1,4 +1,4 @@
-# Hey, I'm Sun 👋
+# Hey, I'm Zun 👋
 
 <p align="left">
   <img
