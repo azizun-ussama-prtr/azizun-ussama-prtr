@@ -1,6 +1,11 @@
-# Hey, I'm Zun [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=AI+%26+Automation+Engineer;Building+Computer+Vision+Systems;Exploring+SigLIP2+%26+AI+Agents)](https://git.io/typing-svg)
+# Hey, I'm Sun 👋
 
-### AI • Automation • Computer Vision
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&lines=AI+%26+Automation+Engineer;Building+Computer+Vision+Systems;Exploring+Multimodal+AI+%26+AI+Agents;Making+AI+Useful+in+the+Real+World"
+    alt="Typing SVG"
+  />
+</p>
 
 I build practical AI and automation solutions for real-world business problems.
 
@@ -8,7 +13,7 @@ Currently exploring how AI can move beyond demos and become useful systems in pr
 
 ---
 
-### 🔭 What I'm working on
+## 🔭 What I'm working on
 
 - 👁️ **Computer Vision** — Product Detection & Recognition
 - 🧠 **Multimodal AI** — Vision-Language Models & Embeddings
@@ -16,14 +21,61 @@ Currently exploring how AI can move beyond demos and become useful systems in pr
 - ⚙️ **Automation** — Business Process Automation
 - 📊 **Data Engineering** — Data Transformation & Integration
 
-### 🧰 Tech I work with
+---
 
-`Python` `PyTorch` `Docker` `Git` `SQL`
+## 🧰 Tech I work with
 
-`YOLO` `SigLIP2` `LLM` `Vector Database`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,github,linux,postgres,vscode" />
+</p>
 
-`Power Automate` `REST API` `Linux`
+`YOLO` `SigLIP2` `LLM` `Vector Database` `REST API` `Power Automate`
 
 ---
 
+## 🧪 Currently Exploring
 
+```text
+Shelf Image
+    │
+    ▼
+┌──────────────┐
+│  Detection   │
+│    YOLO      │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ Recognition  │
+│   SigLIP2    │
+└──────┬───────┘
+       │
+       ▼
+   Product SKU
+```
+
+> Interested in building AI systems that can understand the real world,
+> not just generate text.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=azizun-ussama-prtr&show_icons=true&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizun-ussama-prtr&layout=compact&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p>
+  <img src="https://raw.githubusercontent.com/azizun-ussama-prtr/azizun-ussama-prtr/output/github-contribution-grid-snake.svg" />
+</p>
